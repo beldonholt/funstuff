@@ -1,19 +1,14 @@
 ﻿// See https://aka.ms/new-console-template for more information
+using System;
+
 Console.WriteLine("Hello, World!");
 //------------------------------------------Himanshu
+Console.WriteLine("Hello to our github project");
+Console.WriteLine("In this we are three peoples working on same project");
+Console.WriteLine("We have created a new repo");
 
 
 //------------------------------------------Rami
 
 
 //------------------------------------------Celeste
-static void funThings()
-{
-    Console.WriteLine("hi I'm fun things");
-    Console.WriteLine("i can do many things, like counting to 100. See!");
-    for (int i = 0; i < 100; i++)
-    {
-        Console.WriteLine($"{i}");
-    }
-}
-funThings();
