@@ -9,6 +9,11 @@ Console.WriteLine("We have created a new repo");
 
 
 //------------------------------------------Rami
+RamiGreeting();
 
+// Method defined for Rami
+void RamiGreeting()
+{
+    Console.WriteLine("Hello from Rami!");
 
 //------------------------------------------Celeste
